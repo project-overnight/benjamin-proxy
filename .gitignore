@@ -17,6 +17,7 @@ pids
 
 dist/*
 !dist/index.html
+!dist/main.css
 
 # nyc test coverage
 .nyc_output

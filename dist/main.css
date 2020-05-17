@@ -1,0 +1,21 @@
+#page {
+  display: grid;
+  grid-template-columns: 8fr;
+
+}
+
+#photoBanner {
+
+}
+
+#root {
+
+}
+
+#reservation {
+  z-index: 1;
+}
+
+#app {
+
+}
