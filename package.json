@@ -22,7 +22,7 @@
   "dependencies": {
     "@babel/runtime": "^7.9.6",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "http-proxy-middleware": "^1.0.3",
     "node": "^12.16.2",
     "react": "^16.13.1",
